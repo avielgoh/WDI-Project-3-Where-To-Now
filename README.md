@@ -38,15 +38,15 @@ Check out the site - [https://wheretonow.herokuapp.com/](https://wheretonow.hero
 
 ##### Wireframe:
 
-![Image of Wireframe](https://files.slack.com/files-pri/T0351JZQ0-F0FBLJN8K/pasted_image_at_2015_11_27_01_06_am.png?pub_secret=367ac51341)
+![Image of Wireframe](https://raw.githubusercontent.com/avielgoh/WDI-Project-3-Where-To-Now/master/public/planning/wireframe.png)
 
 ##### Database tables:
 
-![Image of Database tables](https://files.slack.com/files-pri/T0351JZQ0-F0FBP0RHU/where_to.png?pub_secret=09a6c11088)
+![Image of Database tables](https://raw.githubusercontent.com/avielgoh/WDI-Project-3-Where-To-Now/master/public/planning/db_tables.png)
 
 ##### Presentation:
 
-Link to presentation slides - [https://drive.google.com/file/d/0B9k7U6zZJvC7a1Q5NlFFME9nUHM/view?usp=sharing](https://drive.google.com/file/d/0B9k7U6zZJvC7a1Q5NlFFME9nUHM/view?usp=sharing)
+Link to presentation slides - [https://github.com/avielgoh/WDI-Project-3-Where-To-Now/blob/master/public/planning/Where%20To%20Now.pdf](https://github.com/avielgoh/WDI-Project-3-Where-To-Now/blob/master/public/planning/Where%20To%20Now.pdf)
 
 ## Installation
 
@@ -102,13 +102,20 @@ Link to presentation slides - [https://drive.google.com/file/d/0B9k7U6zZJvC7a1Q5
   $ rake db:seed
   ```
 
-## Acknowledgements
+## Team members
 
-##### Team members
+| Role          | Main site |
+|---------------|:---------:|
+| Project Lead  | Bono      |
+| Tech Lead     | Aviel     |
+| Design Lead   | Helen     |
 
+Links to their Github accounts:
 - [Helen](https://github.com/hhabakuk)
 - [Bono](https://github.com/bonogit)
 - [Aviel](https://github.com/avielgoh)
+
+## Acknowledgements
 
 Thanks to [DT](https://github.com/epoch), [Matt](https://github.com/mattswann) and the WDI4 appleandriods class for all your assistance and guidance!
 
